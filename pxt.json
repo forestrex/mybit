@@ -1,0 +1,20 @@
+{
+    "name": "micro-fighters",
+    "description": "A real-time wireless fighting game for two BBC micro:bit V2 devices",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "testFiles": [],
+    "targetVersions": {
+        "target": "6.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
